@@ -1,5 +1,4 @@
 #!/usr/bin/python3
-
 import os
 from azure.common.credentials import ServicePrincipalCredentials
 from azure.common.credentials import UserPassCredentials
